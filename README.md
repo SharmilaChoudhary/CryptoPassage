@@ -6,16 +6,10 @@ Chronicle oracle provides the live price feeds to the users
 
 
 
-CHilliz 0xA6488CB7BBd8Cc3F4a7081e2c375579AAE1814FB
 
 
-Scroll 0x77f35B134a85FD1508296c04d53A1c882c63bDCE
 
-Gnosis 0xA6488CB7BBd8Cc3F4a7081e2c375579AAE1814FB
-
-Arbitrum 0xf1EC58139bb64a039E8AdE7FBAE4f7070CFdb8FB
-
-Polygon zkEVM 0xf1EC58139bb64a039E8AdE7FBAE4f7070CFdb8FB
+Scroll  https://sepolia.scrollscan.com/address/0x508a8f933650673c0250820818Bb9A881bB1745c
 
 
 
